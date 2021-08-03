@@ -1,0 +1,77 @@
+                                                                        Very first post. WELCOME!
+
+
+Hi, call me Adioseight!
+This is my very first project on this platform, it will be my pleasure if you like that!
+
+now, let´s get start it!
+
+Did u hear about Dual/multiboot ?
+No ?
+
+You´re on the right place!
+
+Let´s do this but first requirements!
+
+You need PC with Windows
+Enough space on C: disk (50 Gb)
+USB external device (8 Gb)
+Secure boot turn on (You will find out Win + r, you will write msinfo32 and find the secure boot info, without this feature is not possible do that)
+UEFI
+
+
+
+For first 
+Why dualboot?
+You can have on your PC both OS´s in my case Linux Ubuntu and Microsoft Windows, that means discover a new OS, features or properties and many reasons.
+
+Ok.
+How to do it?
+
+Back up your present datas, it´s important, when you do every disk oprations i strong recommended back up your files.
+U can use Macrium reflect or windows official utility, Windows easy transfer program.
+
+Ok, did it!
+
+You need externel memory (USB flash disk). 
+
+Ok, download Ubuntu file from Ubuntu website here https://ubuntu.com/download/desktop. 
+Or other OS of course, it´s only reccomandation.
+
+Download installer here https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/.
+
+        1st step.
+Insert the USB device into the port and turn on UUI program.
+In menu, choose Ubuntu.
+
+        2nd step.
+find an ISO. file when you have downloaded
+
+        3rd step
+you will format external USB disk
+
+After attention displayed click ok YES.
+
+You have prepared USB drive.
+
+ok, that´s not all yet.
+
+if you´re in Windows go to the (win + R)-(diskmgmt.msc) Disk management and on C: drive shrink volume on that. I recommended at least 70 GB.
+This space on C: disk you will use on Ubuntu install later!
+
+ok, restart your PC, and go to the boot menu (esc, f12) on manufacter of motherboard or notebook matter which button do you need, in this case find out on google.
+
+and boot from USB external driver.
+
+You will see Ubuntu install window.
+
+1. install Ubuntu (not try)
+2. choose your region or language
+3. install OS, (please be still connect to electricity and internet, beware on that!)
+
+!!!!The most important final step! Click on something other or other disk option!!!!!!
+You will install this OS on your shrink on C: drive!
+
+That´s all
+Thanks for your attention
+
